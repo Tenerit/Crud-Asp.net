@@ -11,8 +11,8 @@
 
 ## Home transaction
 
-![alt text](/Crud-Asp.net/images/Transaction.JPG "Crud_Mvc")
+![alt text](https://github.com/Tenerit/Crud-Asp.net/blob/master/images/ModalNewTransation.JPG)
 
 ## Modal Nouvelle Transaction
 
-![alt text](/Crud-Asp.net/images/ModalNewTransaction.JPG "Crud_Mvc2")
+![alt text](https://github.com/Tenerit/Crud-Asp.net/blob/master/images/Transaction.JPG)
