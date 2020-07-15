@@ -1,12 +1,14 @@
 # Asp.net Core MVC Crud using jQuery Ajax
 
-***url in a modal popup***
 
-***mvc crud operation with jQuery Ajax***
+***Url in a modal popup***
+
+***Mvc crud operation with jQuery Ajax***
 
 ***Loading spinner***
 
 ***NoDirectAcess attribute***
+<<<<<<< HEAD
 
 
 ## Home transaction
@@ -15,3 +17,5 @@
 ## Modal Nouvelle Transaction
 
 ![alt text](/Crud-Asp.net/images/ModalNewTransaction.PNG "Crud_Mvc2")
+=======
+>>>>>>> master
