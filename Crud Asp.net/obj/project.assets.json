@@ -8576,11 +8576,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrateur\\source\\repos\\Crud Asp.net\\Crud Asp.net\\Crud Asp.net.csproj",
+      "projectUniqueName": "C:\\Users\\Administrateur\\Desktop\\Crud Asp.net\\Crud Asp.net\\Crud Asp.net.csproj",
       "projectName": "Crud Asp.net",
-      "projectPath": "C:\\Users\\Administrateur\\source\\repos\\Crud Asp.net\\Crud Asp.net\\Crud Asp.net.csproj",
+      "projectPath": "C:\\Users\\Administrateur\\Desktop\\Crud Asp.net\\Crud Asp.net\\Crud Asp.net.csproj",
       "packagesPath": "C:\\Users\\Administrateur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrateur\\source\\repos\\Crud Asp.net\\Crud Asp.net\\obj\\",
+      "outputPath": "C:\\Users\\Administrateur\\Desktop\\Crud Asp.net\\Crud Asp.net\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
