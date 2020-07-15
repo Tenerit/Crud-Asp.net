@@ -11,8 +11,8 @@
 
 ## Home transaction
 
-![alt text](https://github.com/Tenerit/Crud-Asp.net/blob/master/images/ModalNewTransation.JPG)
+![alt text](https://github.com/Tenerit/Crud-Asp.net/blob/master/images/Transaction.JPG)
 
 ## Modal Nouvelle Transaction
 
-![alt text](https://github.com/Tenerit/Crud-Asp.net/blob/master/images/Transaction.JPG)
+![alt text](https://github.com/Tenerit/Crud-Asp.net/blob/master/images/ModalNewTransation.JPG)
